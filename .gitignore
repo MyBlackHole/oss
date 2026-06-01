@@ -1,0 +1,6 @@
+/target
+/store
+*.log
+.trellis
+.opencode
+AGENTS.md
